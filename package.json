@@ -1,6 +1,5 @@
 {
-  "name": "dedale",
-  "homepage": "http://nachmo5.github.io/dedale-consulting",
+  "name": "dedale-consulting",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
