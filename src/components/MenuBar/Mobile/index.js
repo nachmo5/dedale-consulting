@@ -19,8 +19,9 @@ const useStyles = makeStyles(theme => {
     separator: {
       flexGrow: 1
     },
-    menuButton: {
-      marginLeft: "20px"
+    menuButton: {},
+    button: {
+      width: "100%"
     }
   };
 });
